@@ -1,0 +1,3 @@
+org\openmrs\module\artdashboard\web\controller\ARTDashboardController.class
+org\openmrs\module\artdashboard\fragment\controller\UsersFragmentController.class
+org\openmrs\module\artdashboard\extension\html\AdminList.class
